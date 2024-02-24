@@ -1,7 +1,7 @@
 # Meme Gallery
 
-This is a simple web application that fetches and displays memes from Reddit based on the subreddit name provided by the user.
-
+This is a simple web application that fetches and displays memes from Reddit based on the subreddit name provided by the user.\
+Live [here](https://pvanand07.github.io/meme-gallery.github.io/)
 ## Features
 
 - Fetches memes from Reddit API based on the user-provided subreddit name.
