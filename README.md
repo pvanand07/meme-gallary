@@ -1,6 +1,6 @@
 # Meme Gallery
 
-This is a simple web application that fetches and displays memes from Reddit based on the subreddit name provided by the user.\
+This is a simple and responsive web application using TailWind CSS that fetches and displays memes from Reddit based on the subreddit name provided by the user.\
 Live [here](https://pvanand07.github.io/meme-gallery.github.io/)
 ## Features
 
